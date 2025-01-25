@@ -21,4 +21,6 @@ if asked give your user name and Personal access tokens(PTA)
 agian if have make change in the file again. what to do next is mentioned in 2nd commit.
 If you made change in the file than use command git add first, 2nd git commit and than use command 11
 11. git push -u origin branch_name
-
+--> to delte origin and edit it:
+to delete: git remote remove origin
+to edit: git remote set-url origin new_url_and_repo_name
